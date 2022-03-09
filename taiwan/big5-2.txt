@@ -7656,5 +7656,21 @@
 龠	9FA0	EFB6
 龢	9FA2	F7CF
 龤	9FA4	F9A1
+
+# CJK Unified Ideograph which collected in Big5 symbol block
+# 在Big5符號區，Unicode認為是統合漢字的字
+兙	5159	A259
+兛	515B	A25A
+兝	515D	A25C
+兞	515E	A25B
+兡	5161	A25D
+兣	5163	A25E
+卄	5344	A2CD
+嗧	55E7	A25F
+瓩	74E9	A260
+糎	7CCE	A261
+
+# CJK Compatibility Ideographs
+# Big5重複編碼，在Unicode相容漢字
 兀	FA0C	C94A
 嗀	FA0D	DDFC

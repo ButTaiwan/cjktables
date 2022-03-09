@@ -1,3 +1,4 @@
+# Char	Unicode
 丑	4E11
 丞	4E1E
 乃	4E43
